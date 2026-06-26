@@ -1,8 +1,8 @@
 # Terms of Use for Tend
 
-_Last updated: [DATE — e.g. 26 June 2026]_
+_Last updated: [DATE — 26 June 2026]_
 
-These Terms govern your use of **Tend** (the "app"), published by **[DEVELOPER LEGAL NAME]**. By using the app, you agree to these Terms.
+These Terms govern your use of **Tend** (the "app"), published by **pudico**. By using the app, you agree to these Terms.
 
 ## License
 We grant you a personal, non-transferable, non-exclusive license to use Tend on devices you own or control, for personal, non-commercial use, subject to these Terms and the app-store terms you agreed to.
@@ -36,4 +36,4 @@ These Terms are governed by the laws of **[JURISDICTION — e.g. the Republic of
 We may update these Terms. Continued use of the app after changes take effect constitutes acceptance.
 
 ## Contact
-**[CONTACT EMAIL]**
+**doga.maltepe@gmail.com**
