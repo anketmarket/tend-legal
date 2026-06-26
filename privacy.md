@@ -1,8 +1,8 @@
 # Privacy Policy for Tend
 
-_Last updated: [DATE — e.g. 26 June 2026]_
+_Last updated: [DATE 26 June 2026]_
 
-Tend ("the app", "we", "us") is a micro-meditation app published by **[DEVELOPER LEGAL NAME]**. This policy explains what information the app handles and how. Tend is private by design: **no accounts, no ads, and no third-party tracking.**
+Tend ("the app", "we", "us") is a micro-meditation app published by **pudico**. This policy explains what information the app handles and how. Tend is private by design: **no accounts, no ads, and no third-party tracking.**
 
 ## Information stored on your device
 Tend stores the following **only on your device** — never on our servers:
@@ -32,7 +32,7 @@ Daily reminders are scheduled **locally on your device**. We do not operate push
 Tend is not directed to children under 13 and does not knowingly collect data from them.
 
 ## Your rights (GDPR, KVKK, and similar)
-Because personal data is stored only on your device and we maintain no user accounts, you can exercise your rights — including access and erasure — by deleting the app. For subscription data held by Apple, Google, or RevenueCat, contact us at **[CONTACT EMAIL]** and we will help where we can.
+Because personal data is stored only on your device and we maintain no user accounts, you can exercise your rights — including access and erasure — by deleting the app. For subscription data held by Apple, Google, or RevenueCat, contact us at **doga.maltepe@gmail.com** and we will help where we can.
 
 ## Data processors
 - **Apple Inc. / Google LLC** — app distribution and payment processing
@@ -42,4 +42,4 @@ Because personal data is stored only on your device and we maintain no user acco
 We may update this policy. Material changes are reflected by the "last updated" date above.
 
 ## Contact
-**[CONTACT EMAIL]**
+**doga.maltepe@gmail.com**
